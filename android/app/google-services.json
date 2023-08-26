@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959088107525",
+    "project_id": "signupin-e11ac",
+    "storage_bucket": "signupin-e11ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959088107525:android:3a1fa9a6015771382efc6c",
+        "android_client_info": {
+          "package_name": "com.example.signin_signup_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959088107525-n3jstvnat4q3qnbem4o55l1hhqgg4ka4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpFXyCj-KV3Mtg0OA7KppjPuc8QxH9rTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959088107525-n3jstvnat4q3qnbem4o55l1hhqgg4ka4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
